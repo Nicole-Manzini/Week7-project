@@ -1,3 +1,15 @@
 body {
   background-color: #d6d6d6;
+  font-family: "Gupter", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.weather-app {
+  background: white;
+  max-width: 600px;
+  margin: 45px;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 16px;
+  padding: 30px;
 }
